@@ -1,0 +1,9 @@
+# .gitignore
+
+# Exclude configuration files with passwords
+config/passwords.txt
+
+# Exclude log files
+logs/
+
+# Exclude any other sensitive files or directories
